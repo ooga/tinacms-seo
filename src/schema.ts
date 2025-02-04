@@ -576,12 +576,12 @@ export const defaultSeoPageProps: TinaField = {
     {
       type: "number",
       label: "Open Graph Video Width",
-      name: "defaultOpenGraphImageWidth",
+      name: "defaultOpenGraphVideoWidth",
     },
     {
       type: "number",
       label: "Open Graph Video Height",
-      name: "defaultOpenGraphImageHeight",
+      name: "defaultOpenGraphVideoHeight",
     },
     {
       type: "string",
@@ -620,12 +620,12 @@ export const expertDefaultSeoPageProps: TinaField = {
     {
       type: "number",
       label: "Open Graph Video Width",
-      name: "defaultOpenGraphImageWidth",
+      name: "defaultOpenGraphVideoWidth",
     },
     {
       type: "number",
       label: "Open Graph Video Height",
-      name: "defaultOpenGraphImageHeight",
+      name: "defaultOpenGraphVideoHeight",
     },
     {
       type: "string",
